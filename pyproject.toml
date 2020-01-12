@@ -1,3 +1,13 @@
+[project]
+name = "mercury_oxide"
+repository = "https://github.com/thomas9911/mercury_oxide_python"
+description = "Liquid templating engine powered by Liquid-Rust"
+classifiers = [
+    "Programming Language :: Rust",
+    "Topic :: Text Processing"
+]
+licence = "Unlicense"
+
 [build-system]
 requires = ["maturin"]
 build-backend = "maturin"
