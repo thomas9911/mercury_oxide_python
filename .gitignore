@@ -1,0 +1,6 @@
+/target
+**/*.rs.bk
+Cargo.lock
+env
+.vscode
+**/__pycache__
